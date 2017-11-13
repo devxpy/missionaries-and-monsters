@@ -147,4 +147,4 @@ if __name__ == '__main__':
     monsters = int(input('Enter no of monsters: '))
     missionaries = int(input('Enter no of missionaries: '))
 
-    get_ans_by_recursion()
+    get_answer()
